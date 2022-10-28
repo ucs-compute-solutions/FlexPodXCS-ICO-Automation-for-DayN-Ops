@@ -1,11 +1,11 @@
 # FlexPodXCS-ICO-Automation-for-DayN-Ops
 
-This repo contains FlexPodXCS day-1/2 operations workflow automation using Intersight Cloud Orchestrator. There are set of 8 work-flows identified as first set of FlexPodXCS day-1/2 operations. These list of operations contains most frequently used administrative and configuration tasks needed for their existing FlexPod environemnt. These tasks include essential operations on compute, network, storage and virtualization components that are part of a Flex Pod converged infrastructure solution. 
+This repo contains FlexPodXCS day-1/2 operations workflow automation using Intersight Cloud Orchestrator. Few critical work-flows identified as first set of FlexPodXCS day-1/2 operations. This list of operations contains most frequently used administrative and configuration tasks needed for their existing FlexPod environemnt. These tasks include essential operations on compute, network, storage and virtualization components that are part of a Flex Pod converged infrastructure solution.
 
 Here is the sample list of operations that are automated through ICO workflows -
 
+<img width="928" alt="Screenshot 2022-10-28 at 1 26 02 PM" src="https://user-images.githubusercontent.com/12057795/198726221-79bf8e7a-4435-4aad-9e6e-2090f8283773.png">
 
-<img width="930" alt="Screenshot 2022-10-28 at 12 57 24 PM" src="https://user-images.githubusercontent.com/12057795/198721728-8a6a8ced-520d-4d8f-9cc9-5fbb56ff8c34.png">
 
 As mentioned before these automation workflows can be executed against an existing running and Cisco Validated Design(CVD) compliant FlexPod environment that has been claimed into an Intersight account with administrative priveleges. Target for these workflow execution is a FlexPodXCS instance as created on Intersight. In order to have an existing FlexPod environment claimed into intersight following pre-requisites are expected to be in place - 
 
