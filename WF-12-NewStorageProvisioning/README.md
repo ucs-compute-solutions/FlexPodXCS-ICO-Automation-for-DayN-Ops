@@ -1,4 +1,4 @@
-# ICO workflow to provision new storage to hypervisor cluster
+# ICO workflow to provision new storage to hypervisor cluster in FlexPod environment
 
 This workflow helps in provision a new NFS Datastore on FlexPodXCS instance - Begin with new SVM and end with hypervisor cluster mounting. In order to use this workflow, an account administrator in Intersight need to import this json file into Orchestration feature. Once imported successfully, he can execute it against his FlexPodXCS instance needing new storage provisioning and mounting it via NFS protocol to hypervisor cluster. 
 
