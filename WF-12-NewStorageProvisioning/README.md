@@ -2,7 +2,7 @@
 
 This workflow helps in provision a new NFS Datastore on FlexPodXCS instance - Begin with new SVM and end with hypervisor cluster mounting. In order to use this workflow, an account administrator in Intersight need to import included json file into Orchestration feature. Once imported successfully, one can execute it against a FlexPodXCS instance needing new storage provisioning and making it available via NFS protocol to hypervisor cluster. 
 
-## ** **Please note - Workflow import must be done to the same intersight org where the FlexPod XCS instance is being used as target and currently account administrator privileges required to do so.** **
+** **Please note - Workflow import must be done to the same intersight org where the FlexPod XCS instance is being used as target and currently account administrator privileges required to do so.** **
 
 Workflow is consisting of a sub-workflow and 5 tasks to perform actions on NetApp storage backend and hypervisor cluster managed by VMWare vCenter. Following operations gets executed in sequential order as part of workflow execustion - 
 
