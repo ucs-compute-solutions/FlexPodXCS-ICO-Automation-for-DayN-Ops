@@ -16,8 +16,7 @@ When New SVM needed -
 When an existing SVM is used -
 1. A new NetApp SMART volume gets created with user defince performance service level, enablement of local snapshot copies, volume capacity & name along with access permission details
 2. Export policy addition to new smart volume
-3. Export policy rule addition
-4. Creation of a new NFS datastore on hypervisor cluster using smart volume created at the NetApp storage backend in previous steps
+3. Creation of a new NFS datastore on hypervisor cluster using smart volume created at the NetApp storage backend in previous steps
 
 *** **Please note - Workflow execution must be done on the same intersight org where the FlexPod XCS instance was created and is planned to operate on. Currently account administrator privilege is required.** ***
 
