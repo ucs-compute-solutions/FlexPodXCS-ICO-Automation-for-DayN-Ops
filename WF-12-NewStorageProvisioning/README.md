@@ -14,7 +14,7 @@ When New SVM needed -
 6. Creation of a new NFS datastore on hypervisor cluster using smart volume created at the NetApp storage backend in previous steps
 
 When an existing SVM is used -
-1. A new NetApp SMART volume gets created with user defince performance service level, enablement of local snapshot copies, volume capacity & name along with access permission details
+1. A new NetApp SMART volume gets created with user defined performance service level, enablement of local snapshot copies, volume capacity & name along with access permission details
 2. Export policy addition to new smart volume
 3. Creation of a new NFS datastore on hypervisor cluster using smart volume created at the NetApp storage backend in previous steps
 
