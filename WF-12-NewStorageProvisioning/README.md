@@ -37,3 +37,4 @@ A successful execution will look like as below -
 
 <img width="1567" alt="Screenshot 2022-11-02 at 8 11 09 PM" src="https://user-images.githubusercontent.com/12057795/199640866-37e29521-06b6-44a8-9ef1-52d70536eb2d.png">
 
+List of workflow inputs needed to be filled in by the user - <TBD>
