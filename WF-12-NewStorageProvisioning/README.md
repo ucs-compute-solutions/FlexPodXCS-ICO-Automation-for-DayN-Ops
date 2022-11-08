@@ -20,7 +20,7 @@ When an existing SVM is used -
 
 *** **Please note - Workflow execution must be done on the same intersight org where the FlexPod XCS instance was created and is planned to operate on. Currently account administrator privilege is required.** ***
 
-Paranet workflow looks like below when imported successfully - 
+Parent workflow looks like below when imported successfully - 
 
 <img width="758" alt="Screenshot 2022-11-02 at 8 07 53 PM" src="https://user-images.githubusercontent.com/12057795/199640532-74d87f42-1956-4e07-9aec-0359528dcada.png">
 
