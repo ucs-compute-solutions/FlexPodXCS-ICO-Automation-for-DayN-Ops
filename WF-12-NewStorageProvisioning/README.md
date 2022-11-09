@@ -18,7 +18,7 @@ When an existing SVM is used -
 2. Export policy addition to new smart volume
 3. Creation of a new NFS datastore on hypervisor cluster using smart volume created at the NetApp storage backend in previous steps
 
-*** **Please note - Workflow import and execution must be done on the same intersight org where the FlexPod XCS instance was created and is planned to operate on. Currently, account administrator privilege is required for both imporing and execution.** ***
+*** **Please note - Workflow import and execution must be done on the same intersight org where the FlexPod XCS instance was created and is planned to operate on. Currently, account administrator privilege is required for both importing and execution.** ***
 
 Parent workflow looks like below when imported successfully - 
 
