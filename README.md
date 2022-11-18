@@ -16,7 +16,7 @@ As mentioned before these automation workflows can be executed against an existi
 <img width="1121" alt="Screenshot 2022-10-28 at 1 06 28 PM" src="https://user-images.githubusercontent.com/12057795/198722992-b2821836-48d1-4b24-9fec-3564605831fa.png">
 
 3. This represents actual physical topology for a typical iSCSI protocol based FlexPod environment -
-
+![NexusSAN-Topology](https://user-images.githubusercontent.com/12057795/202779485-71a31898-26a6-4514-af2d-38d6f935d193.jpg)
 
 4.
 <img width="1095" alt="Screenshot 2022-10-28 at 1 07 27 PM" src="https://user-images.githubusercontent.com/12057795/198723122-fb0e6ab5-3c13-431a-a5a3-e6997b0dac09.png">
