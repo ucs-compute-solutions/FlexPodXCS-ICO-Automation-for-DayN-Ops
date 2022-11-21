@@ -13,6 +13,7 @@ As mentioned before these automation workflows can be executed against an existi
 <img width="1155" alt="Screenshot 2022-10-28 at 1 06 03 PM" src="https://user-images.githubusercontent.com/12057795/198722933-fdce0cc7-f165-41dd-bfd9-a6645ff65741.png">
 
 2. For example only -
+
 <img width="1121" alt="Screenshot 2022-10-28 at 1 06 28 PM" src="https://user-images.githubusercontent.com/12057795/198722992-b2821836-48d1-4b24-9fec-3564605831fa.png">
 
 3. This represents actual physical topology for a typical iSCSI protocol based FlexPod environment -
