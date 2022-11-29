@@ -1,6 +1,6 @@
 # FlexPodXCS-ICO-Automation-for-DayN-Ops
 
-This repo contains FlexPodXCS day-1/2 operations workflow automation using Intersight Cloud Orchestrator. Few critical work-flows identified as first set of FlexPodXCS day-1/2 operations. This list of operations contains most frequently used administrative and configuration tasks needed for their existing FlexPod environemnt. These tasks include essential operations on compute, network, storage and virtualization components that are part of a Flex Pod converged infrastructure solution.
+This repo contains FlexPodXCS day-1/2 operations workflow automation using Intersight Cloud Orchestrator. Few critical work-flows identified as first set of FlexPodXCS day-1/2 operations. This list of operations contains most frequently used administrative and configuration tasks needed for their existing FlexPod environment. These tasks include essential operations on compute, network, storage and virtualization components that are part of a Flex Pod converged infrastructure solution.
 
 Here is the sample list of operations that are planned for automation through ICO workflows -
 
