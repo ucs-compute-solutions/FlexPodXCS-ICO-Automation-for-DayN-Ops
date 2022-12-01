@@ -1,3 +1,6 @@
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ucs-compute-solutions/FlexPodXCS-ICO-Automation-for-DayN-Ops)
+
 # ICO workflow to provision new storage to hypervisor cluster in FlexPodXCS environment
 
 This workflow helps in provision a new NFS Datastore on FlexPodXCS instance. It takes care of 2 use-cases - 1. Provisioning and mounting datastore on existing hypervisor cluster on an existing SVM and 2. Provision a new SVM, NFS LIFs and volume on storage backend then mount the datastore on existing hypervisor cluster. User can decide between these 2 options during workflow execution as a workflow input. In order to use this workflow, an account administrator in Intersight need to import included json file into Orchestration feature. Once imported successfully, one can execute it against a FlexPodXCS instance needing new storage provisioning and making it available via NFS protocol to hypervisor cluster. 
