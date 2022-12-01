@@ -6,6 +6,15 @@ Here is the sample list of operations that are planned for automation through IC
 
 <img width="928" alt="Screenshot 2022-10-28 at 1 26 02 PM" src="https://user-images.githubusercontent.com/12057795/198726221-79bf8e7a-4435-4aad-9e6e-2090f8283773.png">
 
+This repository will have sub-folders for each of the Day-N automation use-case identified. Sub-folders will have corresponding details on what the work-flow does and what are the building blocks. Included JSON file contains the actual code of the work-flow. Procedure to install is simple -
+1. Download the JSON raw content
+2. Login to Intersight account with account administrator previledges
+3. Go to Cloud Orchestrator services
+4. Import the workflow by providing downloaded raw JSON file path
+5. While importing workflow make sure to select right org where the FlexPod XCS instance is running on
+6. System defined object will be skipped during the import, that's ok
+7. Successful import will add an Uber workflow as well as all related sub-workflows under My Workflows tab
+
 
 As mentioned before these automation workflows can be executed against an existing running and Cisco Validated Design(CVD) compliant FlexPod environment that has been claimed into an Intersight account with administrative priveleges. Target for these workflow execution is a FlexPodXCS instance as created on Intersight. In order to have an existing FlexPod environment claimed into intersight following pre-requisites are expected to be in place - 
 
