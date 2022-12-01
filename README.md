@@ -1,3 +1,6 @@
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ucs-compute-solutions/FlexPodXCS-ICO-Automation-for-DayN-Ops)
+
 # FlexPodXCS-ICO-Automation-for-DayN-Ops
 
 This repo contains FlexPodXCS day-1/2 operations workflow automation using Intersight Cloud Orchestrator. Few critical work-flows identified as first set of FlexPodXCS day-1/2 operations. This list of operations contains most frequently used administrative and configuration tasks needed for their existing FlexPod environment. These tasks include essential operations on compute, network, storage and virtualization components that are part of a Flex Pod converged infrastructure solution.
